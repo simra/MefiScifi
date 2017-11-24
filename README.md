@@ -19,8 +19,7 @@ All titles mentioned in the thread are included, including a couple non-scifi bo
 - [Stories of Your Life And Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/), Ted Chiang (+5)
 - [The Wandering Earth](https://www.amazon.com/Wandering-Earth-Classic-Science-Collection-ebook/dp/B00CXUKNA2/), Liu Cixin (+1)
 - [Three Body Problem](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032/), Liu Cixin (+1/-1)
-- [The Nexus Trilogy](https://www.amazon.com/Nexus-Trilogy-2-Book/dp/B071R785NP/), Ramez Naan (+1)
-- [House of Leaves](), (+1)
+- [The Nexus Trilogy](https://www.amazon.com/Nexus-Trilogy-2-Book/dp/B071R785NP/), Ramez Naan (+1- [House of Leaves](), (+1)
 - [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/), Margaret Atwood (+2)
 - [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA/), Andy Weir (+2)
 - [Station Eleven](https://www.amazon.com/Station-Eleven-Emily-John-Mandel-ebook/dp/B00J1IQUYM/),  Emily St. John Mandel (+1/-1)
@@ -67,4 +66,4 @@ A few additional recommendations trickled in from friends:
 - [The Mark And The Void](), Paul Murray
 - [Skippy Dies](), Paul Murray
 - [Armor](), John Steakley
-- 
+
