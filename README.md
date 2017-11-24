@@ -1,7 +1,9 @@
 # MefiScifi
-Some science fiction books recommended by mefi-ites.
+Some science fiction books recommended by mefi-ites. 
 
 Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
+
+All titles mentioned in the thread are included, including a couple non-scifi books, and a couple dis-recommends. These will be marked with additional notes below. If a book has at least one recommendation, that's sufficient to make the list without comment.  Also, if I've read the book and I liked it I reserve the right to recommend it in the face of dis-recommends. :P
 
 - [Snow Crash](https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958/), Neal Stephenson
 - [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/), Ernest Cline
@@ -27,7 +29,7 @@ Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
 - [Anathem](https://www.amazon.com/Anathem-Neal-Stephenson-ebook/dp/B0015DPXKI/), Neal Stephenson
 - [Seveneves](https://www.amazon.com/Seveneves-Neal-Stephenson/dp/0062334514/), Neal Stephenson
 - [DAEMON](https://www.amazon.com/DAEMON-Daniel-Suarez/dp/0451228731/), Daniel Suarez
-- [The Goldfinch](https://www.amazon.com/Goldfinch-Novel-Pulitzer-Prize-Fiction/dp/0316055441/), Donna Tartt
+- [The Goldfinch](https://www.amazon.com/Goldfinch-Novel-Pulitzer-Prize-Fiction/dp/0316055441/), Donna Tartt. NOTE: Not science fiction.
 - [Perdido Street Station](), China Miéville
 - [Blindsight](), Peter Watts
 - [The Ware Tetrology](), Rudy Rucker
