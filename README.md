@@ -21,7 +21,7 @@ Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
 - [House of Leaves](), 
 - [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/), Margaret Atwood
 - [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA/), Andy Weir
-- [Station Eleven](https://www.amazon.com/Station-Eleven-Emily-John-Mandel-ebook/dp/B00J1IQUYM/),
+- [Station Eleven](https://www.amazon.com/Station-Eleven-Emily-John-Mandel-ebook/dp/B00J1IQUYM/),  Emily St. John Mandel 
 - [The First Fifteen Lives of Harry August](https://www.amazon.com/First-Fifteen-Lives-Harry-August-ebook/dp/B00ECE9OD4/), Claire North
 - [The Girl with all the Gifts](https://www.amazon.com/Girl-All-Gifts-M-Carey-ebook/dp/B00CO7FLFG/), M.R. Carey
 - [Anathem](https://www.amazon.com/Anathem-Neal-Stephenson-ebook/dp/B0015DPXKI/), Neal Stephenson
