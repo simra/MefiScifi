@@ -3,31 +3,31 @@ Some science fiction books recommended by mefi-ites.
 
 Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
 
-- [Snow Crash](), Neal Stephenson
-- [Ready Player One](https://www.amazon.com/product-reviews/030788743X), Ernest Cline
-- [Lexicon](), Max Barry
-- [The Magicians Trilogy]()
-- [The Oryx and Crake Trilogy](), Margaret Atwood
-- [Harry Potter](), J.K. Rowling
-- [The Circle](), Dave Eggers
-- [Reamde](), Neal Stephenson
-- [Game of Thrones](), 
-- [The Fifth Season](), and the Broken Earth Series, J.K. Nemison 
-- [Ancillary Justice](), 
-- [Stories of Your Life And Others](), Ted Chiang
-- [The Wandering Earth](), Liu Cixin
-- [Three Body Problem](), Liu Cixin
-- [The Nexus Trilogy](), Ramez Naan
+- [Snow Crash](https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958/), Neal Stephenson
+- [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/), Ernest Cline
+- [Lexicon, A Novel](https://www.amazon.com/Lexicon-Novel-Max-Barry/dp/0143125427/), Max Barry
+- [The Magicians Trilogy](https://www.amazon.com/Magicians-Novel-Trilogy/dp/0452296293/), Lev Grossman
+- [The Oryx and Crake Trilogy](https://www.amazon.com/Oryx-Crake-Margaret-Atwood/dp/0385721676), Margaret Atwood
+- [Harry Potter](https://www.amazon.com/Harry-Potter-Paperback-Box-Books/dp/0545162076/), J.K. Rowling
+- [The Circle](https://www.amazon.com/Circle-Dave-Eggers/dp/0345807294/), Dave Eggers
+- [Reamde](https://www.amazon.com/Reamde-Novel-Neal-Stephenson/dp/0062191497/), Neal Stephenson
+- [Game of Thrones](https://www.amazon.com/Thrones-Clash-Kings-Swords-Dragons/dp/0345535529/), George R.R. Martin
+- [The Fifth Season](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/), and the Broken Earth Series, J.K. Nemison 
+- [Ancillary Justice](https://www.amazon.com/Ancillary-Justice-Imperial-Radch-Leckie/dp/031624662X/), Ann Leckie
+- [Stories of Your Life And Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/), Ted Chiang
+- [The Wandering Earth](https://www.amazon.com/Wandering-Earth-Classic-Science-Collection-ebook/dp/B00CXUKNA2/), Liu Cixin
+- [Three Body Problem](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032/), Liu Cixin
+- [The Nexus Trilogy](https://www.amazon.com/Nexus-Trilogy-2-Book/dp/B071R785NP/), Ramez Naan
 - [House of Leaves](), 
-- [The Handmaid's Tale](), Margaret Atwood
-- [The Martian](), Andy Weir
-- [Station Eleven](),
-- [The First Fifteen Lives of Harry August](), Claire North
-- [The Girl with all the Gifts](), M.R. Carey
-- [Anathem](), Neal Stephenson
-- [Seveneves](), Neal Stephenson
-- [Daemon](), Daniel Suarez
-- [The Goldfinch](), Donna Tartt
+- [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/), Margaret Atwood
+- [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA/), Andy Weir
+- [Station Eleven](https://www.amazon.com/Station-Eleven-Emily-John-Mandel-ebook/dp/B00J1IQUYM/),
+- [The First Fifteen Lives of Harry August](https://www.amazon.com/First-Fifteen-Lives-Harry-August-ebook/dp/B00ECE9OD4/), Claire North
+- [The Girl with all the Gifts](https://www.amazon.com/Girl-All-Gifts-M-Carey-ebook/dp/B00CO7FLFG/), M.R. Carey
+- [Anathem](https://www.amazon.com/Anathem-Neal-Stephenson-ebook/dp/B0015DPXKI/), Neal Stephenson
+- [Seveneves](https://www.amazon.com/Seveneves-Neal-Stephenson/dp/0062334514/), Neal Stephenson
+- [DAEMON](https://www.amazon.com/DAEMON-Daniel-Suarez/dp/0451228731/), Daniel Suarez
+- [The Goldfinch](https://www.amazon.com/Goldfinch-Novel-Pulitzer-Prize-Fiction/dp/0316055441/), Donna Tartt
 - [Perdido Street Station](), China Miéville
 - [Blindsight](), Peter Watts
 - [The Ware Tetrology](), Rudy Rucker
