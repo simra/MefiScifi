@@ -38,11 +38,11 @@ Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
 - [The Spin State Trilogy](), Chris Moriarty
 - [The Mote in God's Eye](), 
 - [Old Man's War](), John Scalzi
-- [New York 2140](),
+- [New York 2140](https://www.amazon.com/New-York-2140-Stanley-Robinson/dp/031626234X/), Kim Stanley Robinson
 - [Hitchhiker's Guide to the Galaxy](), Douglas Adams
 - [Love Star](), Andri Snaer Magnason
 - [The Culture series](), Iain Banks
-- [The Black Mirror series](),
+- [The Black Mirror series](https://www.amazon.com/Black-Mirror-Literary-Season/dp/0399180001/),  Cory Doctorow, Sylvain Neuvel, Claire North, Charlie Brooker (ed)
 - [The Peripheral](), Willian Gibson
 - [The Girls](), Emma Cline
 - [The Argonauts](), Maggie Nelson
@@ -53,7 +53,6 @@ Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
 - [The Diamond Age: Or, A Young Lady's Illustrated Primer](), Neal Stephenson
 - [Kill Decision](), Daniel Suarez
 - [Ninefox Gambit](), Yoon Ha Lee
-- [The Girl With All The Gifts](), 
-- [Uglies](), 
-- [The Knife of Never Letting Go](), 
-- [After On. Very](),
+- [Uglies](https://www.amazon.com/Uglies-Scott-Westerfeld/dp/1442419814/), Scott Westerfeld
+- [The Knife of Never Letting Go](https://www.amazon.com/Knife-Never-Letting-Reissue-bonus/dp/0763676187/), Patrick Ness
+- [After On](https://www.amazon.com/After-Silicon-Valley-Rob-Reid/dp/1524798053/), Rob Reid
