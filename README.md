@@ -1,4 +1,4 @@
-D# MefiScifi
+# MefiScifi
 Some science fiction books recommended by mefi-ites.
 
 Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
