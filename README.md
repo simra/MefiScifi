@@ -3,7 +3,7 @@ Some science fiction books recommended by mefi-ites.
 
 Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
 
-All titles mentioned in the thread are included, including a couple non-scifi books, and a couple dis-recommends. These will be marked with additional notes below. If a book has at least one recommendation, that's sufficient to make the list without comment.  Also, if I've read the book and I liked it I reserve the right to recommend it in the face of dis-recommends. :P
+All titles mentioned in the thread are included, including a couple non-scifi books, and a couple dis-recommends. (+x/-x) counts the positive/negative posts about the book (I will add favorites soon too).  Also, if I've read the book and I liked it I reserve the right to recommend it in the face of dis-recommends. :P
 
 - [Snow Crash](https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958/), Neal Stephenson
 - [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/), Ernest Cline (+2/-1)
