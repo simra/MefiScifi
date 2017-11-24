@@ -50,7 +50,7 @@ All titles mentioned in the thread are included, including a couple non-scifi bo
 - [The Argonauts](), Maggie Nelson
 - [literally show me a healthy person](), Darcie Wilder
 - [World War Z](), Max Brooks
-- [The Zombie Survival Guide](), 
+- [The Zombie Survival Guide](https://www.amazon.com/Zombie-Survival-Guide-Complete-Protection/dp/1400049628/), Max Brooks
 - [The Yiddish Policemen's Union](), Michael Chabon
 - [The Diamond Age: Or, A Young Lady's Illustrated Primer](), Neal Stephenson
 - [Kill Decision](), Daniel Suarez
