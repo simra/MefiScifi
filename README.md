@@ -30,13 +30,13 @@ All titles mentioned in the thread are included, including a couple non-scifi bo
 - [Seveneves](https://www.amazon.com/Seveneves-Neal-Stephenson/dp/0062334514/), Neal Stephenson
 - [DAEMON](https://www.amazon.com/DAEMON-Daniel-Suarez/dp/0451228731/), Daniel Suarez
 - [The Goldfinch](https://www.amazon.com/Goldfinch-Novel-Pulitzer-Prize-Fiction/dp/0316055441/), Donna Tartt. NOTE: Not science fiction.
-- [Perdido Street Station](), China Miéville
-- [Blindsight](), Peter Watts
-- [The Ware Tetrology](), Rudy Rucker
-- [Too Like the Lightning](), Ada Palmer
-- [Accelerando](), Charlie Stross
-- [Echopraxia](), Peter Watts
-- [Starfish](), Peter Watts
+- [Perdido Street Station](https://www.amazon.com/Perdido-Street-Station-Bas-Lag-Miéville/dp/0345443020/), China Miéville
+- [Blindsight](https://www.amazon.com/Blindsight-Peter-Watts/dp/0765319640/), Peter Watts
+- [The Ware Tetralogy](https://www.amazon.com/Ware-Tetralogy-Rudy-Rucker/dp/1607012111/), Rudy Rucker
+- [Too Like the Lightning](https://www.amazon.com/Too-Like-Lightning-Terra-Ignota/dp/0765378019/), Ada Palmer
+- [Accelerando](https://www.amazon.com/Accelerando-Singularity-Charles-Stross/dp/0441014151/), Charles Stross
+- [Echopraxia](https://www.amazon.com/Echopraxia-Peter-Watts/dp/0765328038/), Peter Watts
+- [Starfish](https://www.amazon.com/Starfish-Rifters-Trilogy-Peter-Watts/dp/0765315963/), Peter Watts
 - [The Spin State Trilogy](), Chris Moriarty
 - [The Mote in God's Eye](), 
 - [Old Man's War](), John Scalzi
