@@ -24,6 +24,8 @@ Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
 - [Station Eleven](),
 - [The First Fifteen Lives of Harry August](), Claire North
 - [The Girl with all the Gifts](), M.R. Carey
+- [Anathem](), Neal Stephenson
+- [Seveneves](), Neal Stephenson
 - [Daemon](), Daniel Suarez
 - [The Goldfinch](), Donna Tartt
 - [Perdido Street Station](), China Miéville
