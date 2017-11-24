@@ -1,4 +1,4 @@
- # MefiScifi
+# MefiScifi
 Some science fiction books recommended by mefi-ites. 
 
 Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
@@ -61,3 +61,10 @@ All titles mentioned in the thread are included, including a couple non-scifi bo
 - [After On](https://www.amazon.com/After-Silicon-Valley-Rob-Reid/dp/1524798053/), Rob Reid (+1)
 - [The Circle](), (-1)
 - [](), Rudy Rucker (+1)
+
+## Other Recommendations 
+A few additional recommendations trickled in from friends:
+- [The Mark And The Void](), Paul Murray
+- [Skippy Dies](), Paul Murray
+- [Armor](), John Steakley
+- 
