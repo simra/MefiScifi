@@ -1,2 +1,57 @@
-# MefiScifi
+D# MefiScifi
 Some science fiction books recommended by mefi-ites.
+
+Inspired by http://ask.metafilter.com/315475/What-is-the-Snowcrash-of-today
+
+- [Snow Crash](), Neal Stephenson
+- [Ready Player One](https://www.amazon.com/product-reviews/030788743X), Ernest Cline
+- [Lexicon](), Max Barry
+- [The Magicians Trilogy]()
+- [The Oryx and Crake Trilogy](), Margaret Atwood
+- [Harry Potter](), J.K. Rowling
+- [The Circle](), Dave Eggers
+- [Reamde](), Neal Stephenson
+- [Game of Thrones](), 
+- [The Fifth Season](), and the Broken Earth Series, J.K. Nemison 
+- [Ancillary Justice](), 
+- [Stories of Your Life And Others](), Ted Chiang
+- [The Wandering Earth](), Liu Cixin
+- [Three Body Problem](), Liu Cixin
+- [The Nexus Trilogy](), Ramez Naan
+- [House of Leaves](), 
+- [The Handmaid's Tale](), Margaret Atwood
+- [The Martian](), Andy Weir
+- [Station Eleven](),
+- [The First Fifteen Lives of Harry August](), Claire North
+- [The Girl with all the Gifts](), M.R. Carey
+- [Daemon](), Daniel Suarez
+- [The Goldfinch](), Donna Tartt
+- [Perdido Street Station](), China Miéville
+- [Blindsight](), Peter Watts
+- [The Ware Tetrology](), Rudy Rucker
+- [Too Like the Lightning](), Ada Palmer
+- [Accelerando](), Charlie Stross
+- [Echopraxia](), Peter Watts
+- [Starfish](), Peter Watts
+- [The Spin State Trilogy](), Chris Moriarty
+- [The Mote in God's Eye](), 
+- [Old Man's War](), John Scalzi
+- [New York 2140](),
+- [Hitchhiker's Guide to the Galaxy](), Douglas Adams
+- [Love Star](), Andri Snaer Magnason
+- [The Culture series](), Iain Banks
+- [The Black Mirror series](),
+- [The Peripheral](), Willian Gibson
+- [The Girls](), Emma Cline
+- [The Argonauts](), Maggie Nelson
+- [literally show me a healthy person](), Darcie Wilder
+- [World War Z](), Max Brooks
+- [The Zombie Survival Guide](), 
+- [The Yiddish Policemen's Union](), Michael Chabon
+- [The Diamond Age: Or, A Young Lady's Illustrated Primer](), Neal Stephenson
+- [Kill Decision](), Daniel Suarez
+- [Ninefox Gambit](), Yoon Ha Lee
+- [The Girl With All The Gifts](), 
+- [Uglies](), 
+- [The Knife of Never Letting Go](), 
+- [After On. Very](),
