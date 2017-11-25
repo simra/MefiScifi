@@ -67,4 +67,8 @@ A few additional recommendations trickled in from friends:
 - [The Mark And The Void](), Paul Murray
 - [Skippy Dies](), Paul Murray
 - [Armor](), John Steakley
+- [Riddley Walker](), Russell Hoban
+- [Red Rising Trilogy](), Pierce Brown
+- [Night Watch Series](), Sergei Lukyanenko
+
 
