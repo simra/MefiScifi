@@ -60,7 +60,7 @@ All titles mentioned in the thread are included, including a couple non-scifi bo
 - [The Knife of Never Letting Go](https://www.amazon.com/Knife-Never-Letting-Reissue-bonus/dp/0763676187/), Patrick Ness
 - [After On](https://www.amazon.com/After-Silicon-Valley-Rob-Reid/dp/1524798053/), Rob Reid (+1)
 - [The Circle](), (-1)
-- [](), Rudy Rucker (+1)
+- [various writings](https://www.amazon.com/Rudy-Rucker/e/B000AQ29KI), Rudy Rucker (+1)
 
 ## Other Recommendations 
 A few additional recommendations trickled in from friends:
